@@ -129,3 +129,21 @@ img {
 #technology .articles article a {
     background-color: #bd4dd3;
 }
+
+/*usando o pseudo-elemento :hover*/
+
+#technology .articles article a:hover {
+    background-color: #0b973a;
+}
+
+#sports .articles article a:hover {
+    background-color: #79970b;
+}
+
+#entertainment .articles article a:hover {
+    background-color: #0b973a;
+}
+
+#economy .articles article a:hover {
+    background-color: #0b973a;
+}
